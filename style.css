@@ -1,0 +1,40 @@
+body
+{
+    background: turquoise;
+    font-family: 'special elite', cursive;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+.header_div
+{
+    background: white;
+    color: #ce2700;
+}
+
+.header_div img
+{
+    width: 100px;
+}
+
+.main_div
+{
+    background: lightgreen;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 400px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+h4
+{
+    box-shadow: 5px 5px 18px grey;
+    letter-spacing: 2px;
+    background: turquoise;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    border:2px solid grey
+}
